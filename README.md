@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Haris Wahyudi
 
-<!--
-**HariisV/HariisV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Fullstack Website Developer**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Sustainable Living Lab ( SL2 )
+- 🌱 I’m currently learning what i want
+- 👯 I’m looking to collaborate on anybody
+- ✉️ You can contact me at hariswh9@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Language & Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,react,nextjs,expressjs,nodejs,css,tailwind,bootstrap,php,laravel,mysql,git,github,gitlab,stackoverflow,aws)](https://www.linkedin.com/in/harisw/details/skills/)
+
+### My Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariisV&layout=compact&theme=tokyonight)](https://github.com/oriegenbi27/github-readme-stats)
+
+![orie's GitHub stats](https://github-readme-stats.vercel.app/api?username=HariisV&show_icons=true&theme=tokyonight)
