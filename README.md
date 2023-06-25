@@ -15,4 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariisV&layout=compact&theme=tokyonight)](https://github.com/oriegenbi27/github-readme-stats)
 
+<!---
 ![orie's GitHub stats](https://github-readme-stats.vercel.app/api?username=HariisV&show_icons=true&theme=tokyonight)
+-->
