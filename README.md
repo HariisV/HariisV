@@ -2,8 +2,8 @@
 
 **I'm a Fullstack Website Developer**
 
-- 🔭 I’m currently working on Sustainable Living Lab ( SL2 )
-- 🌱 I’m currently learning what i want
+- 🔭 I’m currently working on PT Healstation Indonesia
+- 🌱 I’m currently learning about DevOPS
 - 👯 I’m looking to collaborate on anybody
 - ✉️ You can contact me at hariswh9@gmail.com
 
